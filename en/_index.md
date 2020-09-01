@@ -1,5 +1,5 @@
 ---
-title: Containerize Docs
+title: Farooq Containerize Docs
 linktitle: Containerize Docs
 description: Developer Guide for containerize.com. Learn Howto Save time and software maintenance costs by running single instance of software, but serving multiple tenants/websites.
 date: 2017-02-01
