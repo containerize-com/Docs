@@ -18,7 +18,7 @@ In this article, we will discuss how to choose a right open source discussion fo
 
 In order to choose an open source discussion forum, we'll base on below article which sets general guidelines for open source project selection:
 
-[https:~~/~~/wiki.containerize.com/common-how-tos/choose-a-right-open-source-product/](https://wiki.containerize.com/common-how-tos/choose-a-right-open-source-product/)
+[https:~~/~~/docs.containerize.com/common-how-tos/choose-a-right-open-source-product/](https://docs.containerize.com/common-how-tos/choose-a-right-open-source-product/)
 
 # Evaluate Open Source Discussion Forum Options #
 
