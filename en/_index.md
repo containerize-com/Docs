@@ -15,4 +15,4 @@ aliases: []
 toc: false
 ---
 
-Welcome to the home of Containerize Products wiki. In order to know more about any of the Containerize Products, please click desired topic from the tree view. For any support inquiries or suggestions, please visit [Containerize Forum](https://forum.containerize.com).
+Welcome to the home of Containerize Products wiki documentation. In order to know more about any of the Containerize Products, please click desired topic from the tree view. For any support inquiries or suggestions, please visit [Containerize Forum](https://forum.containerize.com).
